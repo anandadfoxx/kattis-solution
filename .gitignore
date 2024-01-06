@@ -1,0 +1,5 @@
+# All compiled binary on Windows
+*.exe
+*.o
+*.out
+CFContest/
